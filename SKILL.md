@@ -1,12 +1,10 @@
 ---
 name: permission-interruption-diagnosis
-description: Evaluate marketing and communication strategies against Seth Godin's
-  permission marketing principles to determine if you're earning attention or stealing
-  it.
+description: Evaluate marketing and communication strategies against Seth Godin's permission marketing principles to determine if you're earning attention or stealing it.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - permission-vs.-interruption-diagnosis
 - writing
