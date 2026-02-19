@@ -4,7 +4,7 @@ description: Evaluate marketing and communication strategies against Seth Godin'
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4662
+  version: 1.0.4663
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - permission-vs.-interruption-diagnosis
